@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_payment_gateways/core/utils/styles.dart';
 
-AppBar buildAppBar({ final String? title}) {
+AppBar buildAppBar({final String? title}) {
   return AppBar(
     elevation: 0.0,
     centerTitle: true,
