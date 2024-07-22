@@ -8,4 +8,6 @@
 
 _Steps For Save Card_
 1. Create Payment Intent ( Amount , Currency , CustomerId )
-2. 
+2. Create Ephemeral Key (StripeVersion , CustomerId)
+3. Init Payment Sheet (Merchant Display Name , Intent Client Secret , Ephemeral Key Secret)
+4. Present Payment Sheet ()
